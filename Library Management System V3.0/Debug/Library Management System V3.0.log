@@ -1,0 +1,14 @@
+﻿  Source.cpp
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(193,6): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(229,6): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(283,6): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(359,6): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(447,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(421,14): warning C4101: 'id': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(678,6): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(729,27): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(957,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(935,14): warning C4101: 'id': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(935,25): warning C4101: 'ch': unreferenced local variable
+F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Library Management System V3.0\Source.cpp(1226,6): warning C4101: 'ch': unreferenced local variable
+  Library Management System V3.0.vcxproj -> F:\uni\04. 4th semester\DSTR\assign\system\Library Management System V3.0\Debug\Library Management System V3.0.exe
